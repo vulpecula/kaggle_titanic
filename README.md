@@ -1,3 +1,5 @@
-# kaggle_titanic
+# Titanic project on Kaggle
 
-[link](https://www.kaggle.com/c/titanic#evaluation) 
+[Project](https://www.kaggle.com/c/titanic#evaluation) 
+
+[Leader Board](https://www.kaggle.com/c/titanic/leaderboard)
